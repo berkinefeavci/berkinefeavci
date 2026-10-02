@@ -14,9 +14,9 @@ Open-source battery care for Apple Silicon MacBooks: macOS charge-limit settings
 
 ### [SesCam](https://github.com/berkinefeavci/sescam)
 
-Dictation and live captions for macOS, with local speech options and optional AI editing. The limited beta is in preparation; there is no public download yet.
+Dictation and live captions for macOS, with local speech options and optional AI editing. Limited beta available for Apple Silicon Macs.
 
-[How it works](https://github.com/berkinefeavci/sescam#readme) · [Data use](https://github.com/berkinefeavci/sescam/blob/main/PRIVACY.md) · [Report an issue](https://github.com/berkinefeavci/sescam/issues)
+[Download beta](https://github.com/berkinefeavci/sescam/releases/tag/v0.30.2-beta.1) · [How it works](https://github.com/berkinefeavci/sescam#readme) · [Data use](https://github.com/berkinefeavci/sescam/blob/main/PRIVACY.md) · [Report an issue](https://github.com/berkinefeavci/sescam/issues)
 
 ## Open source
 
@@ -24,4 +24,4 @@ Dictation and live captions for macOS, with local speech options and optional AI
 
 ---
 
-Mac için pil bakımı, dikte ve canlı altyazı uygulamaları geliştiriyorum. Cellkeep açık kaynaklı ve indirilebilir. SesCam sınırlı beta hazırlığında.
+Mac için pil bakımı, dikte ve canlı altyazı uygulamaları geliştiriyorum. Cellkeep açık kaynaklı ve indirilebilir. SesCam'in sınırlı beta sürümü indirilebilir.
