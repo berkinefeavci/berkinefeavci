@@ -1,22 +1,27 @@
+<img src="assets/github-avatar.png" alt="BE logo" width="64" align="right">
+
 # Berkin Efe Avcı
 
-I build practical macOS apps with Swift and SwiftUI. Current focus: battery care, dictation, and live captions.
+I build practical macOS apps with Swift and SwiftUI.
 
 ## Apps
 
-| App | What it does | Explore |
-| --- | --- | --- |
-| **[Cellkeep](https://github.com/berkinefeavci/cellkeep)** | Open-source battery care for Apple Silicon MacBooks: charge limits, live power flow, and battery history. | [Download](https://github.com/berkinefeavci/cellkeep/releases/latest) · [Homebrew](https://github.com/berkinefeavci/homebrew-cellkeep) · [Screenshots](https://github.com/berkinefeavci/cellkeep/tree/main/docs/screenshots) |
-| **[SesCam](https://github.com/berkinefeavci/sescam)** | Dictation and live captions for macOS, with local speech options and optional AI editing. Limited beta in preparation. | [Product details](https://github.com/berkinefeavci/sescam#readme) · [Data use](https://github.com/berkinefeavci/sescam/blob/main/PRIVACY.md) · [Feedback](https://github.com/berkinefeavci/sescam/issues) |
+### [Cellkeep](https://github.com/berkinefeavci/cellkeep)
 
-Cellkeep installs with `brew install --cask berkinefeavci/cellkeep/cellkeep`. SesCam does not have a public download yet.
+Open-source battery care for Apple Silicon MacBooks: macOS charge-limit settings, live power flow, and battery history.
+
+[Download](https://github.com/berkinefeavci/cellkeep/releases/latest) · [Install with Homebrew](https://github.com/berkinefeavci/homebrew-cellkeep) · [Screenshots](https://github.com/berkinefeavci/cellkeep/tree/main/docs/screenshots) · [Report an issue](https://github.com/berkinefeavci/cellkeep/issues)
+
+### [SesCam](https://github.com/berkinefeavci/sescam)
+
+Dictation and live captions for macOS, with local speech options and optional AI editing. The limited beta is in preparation; there is no public download yet.
+
+[How it works](https://github.com/berkinefeavci/sescam#readme) · [Data use](https://github.com/berkinefeavci/sescam/blob/main/PRIVACY.md) · [Report an issue](https://github.com/berkinefeavci/sescam/issues)
 
 ## Open source
 
-- [DockDoor: preview-title layout fix](https://github.com/ejbills/DockDoor/pull/1618) — pull request under review.
-
-For bug reports and ideas, open an issue in the relevant project. Please keep API keys and private recordings out of public issues.
+[DockDoor preview-title fix](https://github.com/ejbills/DockDoor/pull/1618) — pull request under review.
 
 ---
 
-**Türkçe:** Mac için pil bakımı, dikte ve canlı altyazı uygulamaları geliştiriyorum. Cellkeep indirilebilir ve açık kaynaklıdır. SesCam sınırlı beta hazırlığında.
+Mac için pil bakımı, dikte ve canlı altyazı uygulamaları geliştiriyorum. Cellkeep açık kaynaklı ve indirilebilir. SesCam sınırlı beta hazırlığında.
